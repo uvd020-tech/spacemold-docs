@@ -1,16 +1,16 @@
 ---
-title: Security Policy — Spacemold
+title: Security Policy — SpaceStamp
 ---
 
 # Security Policy
 
-**App:** Spacemold
+**App:** SpaceStamp
 
-**Last updated:** 7 November 2026
+**Last updated:** 13 November 2026
 
 [← Documentation home](index.html)
 
-This policy describes how Spacemold ("the app"), developed and maintained by Vudia, protects your data and manages security risk. It complements our [Privacy Policy](privacy.html).
+This policy describes how SpaceStamp ("the app"), developed and maintained by Vudia, protects your data and manages security risk. It complements our [Privacy Policy](privacy.html).
 
 ## 1. Architecture and Hosting
 

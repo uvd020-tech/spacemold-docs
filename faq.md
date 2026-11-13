@@ -1,5 +1,5 @@
 ---
-title: FAQ — Spacemold
+title: FAQ — SpaceStamp
 ---
 
 {% raw %}

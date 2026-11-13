@@ -1,20 +1,20 @@
 ---
-title: Privacy Policy — Spacemold
+title: Privacy Policy — SpaceStamp
 ---
 
 {% raw %}
 
 # Privacy Policy
 
-**App:** Spacemold
+**App:** SpaceStamp
 
-**Last updated:** 7 November 2026
+**Last updated:** 13 November 2026
 
 [← Documentation home](index.html)
 
 ## Summary
 
-Spacemold is an [Atlassian Forge](https://developer.atlassian.com/platform/forge/)
+SpaceStamp is an [Atlassian Forge](https://developer.atlassian.com/platform/forge/)
 app. It runs on Atlassian's infrastructure. It has no servers of its own, makes
 no requests to other hosts, and sends no data to any third party. What the app
 stores stays inside the Forge platform and your Confluence site.

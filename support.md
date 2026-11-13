@@ -1,5 +1,5 @@
 ---
-title: Support — Spacemold
+title: Support — SpaceStamp
 ---
 
 {% raw %}

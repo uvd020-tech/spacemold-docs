@@ -1,10 +1,10 @@
 # Source of truth for the public documentation site. This repository is
 # private, so GitHub Pages cannot build from it on the free plan: the site is
-# published from the public mirror repository uvd020-tech/spacemold-docs
+# published from the public mirror repository uvd020-tech/spacestamp-docs
 # (these files copied into its root, Pages: main -> /).
 # Edit here, then copy the changed files over to that repository.
 theme: jekyll-theme-minimal
-title: Spacemold
+title: SpaceStamp
 description: Create Confluence Cloud spaces from a template space with variables — user guide, privacy policy and support.
 show_downloads: false
 

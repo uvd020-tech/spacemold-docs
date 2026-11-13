@@ -1,12 +1,12 @@
 ---
-title: Spacemold — Documentation
+title: SpaceStamp — Documentation
 ---
 
 {% raw %}
 
-# Spacemold
+# SpaceStamp
 
-Spacemold creates new Confluence spaces from a space you keep as a sample. A
+SpaceStamp creates new Confluence spaces from a space you keep as a sample. A
 Confluence administrator saves a space as a template. Anyone who opens the app
 can then create a new space from it, with `{{Project}}`, `{{Owner}}` and
 `{{today}}` replaced in page titles and text.
@@ -21,7 +21,7 @@ the [Privacy Policy](privacy.html).
 
 **Create a template (Confluence administrators):**
 
-1. Open **Apps → Spacemold**, then the **Templates** tab.
+1. Open **Apps → SpaceStamp**, then the **Templates** tab.
 2. Click **New template**.
 3. Enter the **Template name** and choose the **Source space**.
 4. Tick what to copy: **Attachments**, **Page labels**, **Page restrictions**,
@@ -30,7 +30,7 @@ the [Privacy Policy](privacy.html).
 
 **Create a space:**
 
-1. Open **Apps → Spacemold**. The create form opens first.
+1. Open **Apps → SpaceStamp**. The create form opens first.
 2. Choose the **Template**, then enter the **Space name** and the **Space key**.
 3. Change the values for `{{Project}}` and `{{Owner}}` if you need to.
 4. Click **Create space**. The screen shows each stage of the copy.
